@@ -7,3 +7,4 @@ flask_admin
 flask_login
 flask_bcrypt
 flask_sqlalchemy
+gunicorn
