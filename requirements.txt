@@ -1,5 +1,5 @@
 flask
-Marshmallow
+flask_marshmallow
 email_validator
 flask_wtf
 flask_migrate
