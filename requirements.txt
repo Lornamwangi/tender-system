@@ -1,0 +1,9 @@
+flask
+Marshmallow
+email_validator
+flask_wtf
+flask_migrate
+flask_admin
+flask_login
+flask_bcrypt
+flask_sqlalchemy
